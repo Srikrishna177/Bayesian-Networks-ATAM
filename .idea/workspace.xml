@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d455dece-cba8-4fd8-a3a0-1c3e29bfbd2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bayesian Networks ATAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2g69zHVnTuSZHIkEnqed8W3RRgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ATAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_ATAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_CBA_ATAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_CBA_ATAM_RISK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_CSA_ATAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_CSA_ATAM_RISK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_LA_ATAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BN_LA_ATAM_RISK.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Thesis/Multi-Objective Optimization NSGA-II ATAM/MOO-NSGA-II.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d455dece-cba8-4fd8-a3a0-1c3e29bfbd2d" name="Changes" comment="" />
+      <created>1715007422617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715007422617</updated>
+      <workItem from="1715007422914" duration="694000" />
+      <workItem from="1715008503576" duration="992000" />
+      <workItem from="1715023977536" duration="1719000" />
+      <workItem from="1715070483364" duration="11529000" />
+      <workItem from="1715095311076" duration="2030000" />
+      <workItem from="1715104480104" duration="3446000" />
+      <workItem from="1715689035943" duration="6699000" />
+      <workItem from="1716206749566" duration="14977000" />
+      <workItem from="1716230894307" duration="5143000" />
+      <workItem from="1716269392804" duration="3152000" />
+      <workItem from="1716285103721" duration="10434000" />
+      <workItem from="1716315269579" duration="820000" />
+      <workItem from="1716377433083" duration="647000" />
+      <workItem from="1716817618368" duration="674000" />
+      <workItem from="1716915419990" duration="2069000" />
+      <workItem from="1716926812317" duration="5392000" />
+      <workItem from="1716999607197" duration="8177000" />
+      <workItem from="1717013228166" duration="2853000" />
+      <workItem from="1717186626642" duration="1518000" />
+      <workItem from="1717427759539" duration="389000" />
+      <workItem from="1717429602025" duration="1083000" />
+      <workItem from="1717435964868" duration="629000" />
+      <workItem from="1717513269912" duration="453000" />
+      <workItem from="1717585641149" duration="75000" />
+      <workItem from="1717586277948" duration="705000" />
+      <workItem from="1717877301063" duration="183000" />
+      <workItem from="1717952571047" duration="1663000" />
+      <workItem from="1718031460858" duration="1944000" />
+      <workItem from="1718226860696" duration="648000" />
+      <workItem from="1718276872301" duration="12000" />
+      <workItem from="1718286064256" duration="95000" />
+      <workItem from="1718454950180" duration="413000" />
+      <workItem from="1718720709685" duration="479000" />
+      <workItem from="1718732199561" duration="775000" />
+      <workItem from="1718874055776" duration="1354000" />
+      <workItem from="1718910008162" duration="1243000" />
+      <workItem from="1718911771786" duration="217000" />
+      <workItem from="1719158625744" duration="6269000" />
+      <workItem from="1719509974405" duration="1449000" />
+      <workItem from="1719579148315" duration="11306000" />
+      <workItem from="1719601980146" duration="729000" />
+      <workItem from="1719612072847" duration="871000" />
+      <workItem from="1719664533531" duration="2898000" />
+      <workItem from="1719934547799" duration="8291000" />
+      <workItem from="1720014720556" duration="5759000" />
+      <workItem from="1720275871594" duration="2964000" />
+      <workItem from="1720288499163" duration="957000" />
+      <workItem from="1720300748412" duration="1061000" />
+      <workItem from="1720456262575" duration="6032000" />
+      <workItem from="1720526987245" duration="323000" />
+      <workItem from="1720627326739" duration="1270000" />
+      <workItem from="1720631482239" duration="4708000" />
+      <workItem from="1720794499872" duration="420000" />
+      <workItem from="1721074366898" duration="1401000" />
+      <workItem from="1721227830728" duration="624000" />
+      <workItem from="1721415627439" duration="299000" />
+      <workItem from="1721426397714" duration="1994000" />
+      <workItem from="1721483061255" duration="2828000" />
+      <workItem from="1721663372623" duration="362000" />
+      <workItem from="1721749284583" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_CBA_ATAM.coverage" NAME="BN_CBA_ATAM Coverage Results" MODIFIED="1719944652186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_LA_ATAM.coverage" NAME="BN_LA_ATAM Coverage Results" MODIFIED="1720632605586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_ATAM.coverage" NAME="BN_ATAM Coverage Results" MODIFIED="1717003528680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_CSA_ATAM.coverage" NAME="BN_CSA_ATAM Coverage Results" MODIFIED="1720279031366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_CBA_ATAM_RISK.coverage" NAME="BN_CBA_ATAM_RISK Coverage Results" MODIFIED="1721428362425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$ATAM.coverage" NAME="ATAM Coverage Results" MODIFIED="1717013980778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_LA_ATAM_RISK.coverage" NAME="BN_LA_ATAM_RISK Coverage Results" MODIFIED="1721074385910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian_Networks_ATAM$BN_CSA_ATAM_RISK.coverage" NAME="BN_CSA_ATAM_RISK Coverage Results" MODIFIED="1720464996956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
