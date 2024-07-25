@@ -213,7 +213,7 @@ def main():
     network.add_edge(Persistence_Layer, Energy_Efficiency)
 
     # Define the CPDs for PresentationLayer, BusinessLayer, PersistenceLayer
-    cpd_presentation_layer = TabularCPD(variable='Presentation Layer', variable_card=3, values=[[0.825], [0.125], [0.05]])
+    cpd_presentation_layer = TabularCPD(variable='Presentation Layer', variable_card=3, values=[[0.425], [0.125], [0.45]])
 
     cpd_business_layer = TabularCPD(variable='Business Logic Layer', variable_card=3, values=[[0.174], [0.157], [0.66]])
 
